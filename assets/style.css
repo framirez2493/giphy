@@ -1,0 +1,27 @@
+.container{
+    margin-top: 25px;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+   font-weight: 900;
+}
+    button,
+    form,
+    input {
+        margin: 10px;
+    }
+
+    .giphy-btn:hover {
+        background-color: blue;
+    }
+    #add-giphy:hover{
+        background-color: blue;
+    }
+    label{
+        background-color: aliceblue;
+        color: black;
+        font-size: 18px;
+        font-weight: 900;
+    }
